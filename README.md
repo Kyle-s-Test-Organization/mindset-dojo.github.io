@@ -9,7 +9,7 @@ Inspirations:
 * [Tenshinkan Dojo](https://japaneseculturecenter.com/classes/aikido)
 * [Dojo Consortium](https://dojoconsortium.org)
 * [InnerSource Commons Foundation](https://innersourcecommons.org)
-* [Cloud Security Office Hours](https://csoh.org)
+* [Cloud Security Office Hours](https://csoh)
 * [Fearless Change](https://fearlesschangepatterns.com)
 
 Respect:
@@ -19,3 +19,4 @@ Respect:
 Engage:
 
 * [CONTRIBUTING](CONTRIBUTING.md)
+
