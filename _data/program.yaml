@@ -13,13 +13,13 @@ forms:
   - label: Breathing
     url: https://en.wikipedia.org/wiki/Conscious_breathing
   - label: Reflection
-    url: https://en.wikipedia.org/wiki/Self-reflection
+    url: https://en.wikipedia.org/
   - label: Consciousness
     url: https://www.pranacafe.love/post/exploring-the-levels-of-consciousness
   - label: Ki
     url: https://mindbodyaikido.com/plus-ki-and-minus-ki/
   - label: Moves
-    url: https://www.blackswanltd.com/newsletter/infographic-the-black-swan-groups-negotiation-9
+    url: https://www.blackswanltd.com
   - label: Flips
     url: https://cdn.dirigible.studio/wp-content/uploads/sites/24/2021/09/04073619/TZL-graphic-izl.pdf
   - label: Stances
@@ -46,7 +46,7 @@ levels:
       - label: FEBI™ Experience
         url: https://www.youtube.com/watch?v=uVTGeFjsD3s
       - label: How to Start a Movement
-        url: https://www.ted.com/talks/derek_sivers_how_to_start_a_movement
+        url: https://www.ted.com/
   - color: yellow
     label: 6th Kyu
     level: -6
