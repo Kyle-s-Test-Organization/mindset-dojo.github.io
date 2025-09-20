@@ -5,8 +5,10 @@ description: Mindset Dojo is a global training ground for the inner game of pres
 css_id: home
 ---
 
-<h1>Don’t Complain. <mark>Train.</mark></h1>
+<h1>Train harder.</h1>
 <hr>
+
+<!-- I was here -->
 
 <p>When the pressure hits, you don’t rise to the level of your best intentions.<br>
 You reveal the level of your conditioning.</p>
